@@ -1,5 +1,5 @@
 KaraOkify Privacy Policy
-This document applies to KaraOkify, the karaoke app developed by Victor. Please take time to read it carefully.
+This document applies to KaraOkify, the karaoke app developed by vmgp_4FilipinoPeopleDev. Please take time to read it carefully.
 
 📌 YouTube API Services
 KaraOkify uses YouTube API Services, so you must also agree to Google’s Privacy Policy.
